@@ -1,0 +1,15 @@
+
+{
+	"name": "com.had.unity.pooling",
+	"displayName": "HAD Pooling",
+	"version": "1.0.0",
+	"unity": "2019.1",
+	"author": "HAD",
+	"description": "",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aduonghad/com.had.unity.pooling.git"
+	}
+}
